@@ -1,3 +1,6 @@
 outputs/simulated_trials_100_per_group.csv
+outputs/70_30/simulated_trials_100_per_group.csv
 .ipynb_checkpoints/
 __pycache__/
+CLAUDE.md
+.DS_Store
